@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\stuar\onedrive\documents\visual studio 2015\projects\lab2\lab2\source.cpp(174): warning C4305: 'argument': truncation from 'double' to 'float'
+  LAB2.vcxproj -> C:\Users\stuar\OneDrive\documents\visual studio 2015\Projects\LAB2\Debug\LAB2.exe
+  LAB2.vcxproj -> C:\Users\stuar\OneDrive\documents\visual studio 2015\Projects\LAB2\Debug\LAB2.pdb (Partial PDB)
